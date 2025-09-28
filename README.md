@@ -121,6 +121,3 @@ This FDI analysis project provides valuable insights into investment patterns in
 - Academic institutions
 
 The comprehensive analysis helps understand the complex dynamics of foreign investment in India's growing economy.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
